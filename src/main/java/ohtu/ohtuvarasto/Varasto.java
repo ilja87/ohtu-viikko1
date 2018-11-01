@@ -1,7 +1,7 @@
 package ohtu.ohtuvarasto;
 
 public class Varasto {
-
+  //Kyseinen kommentti on lisatty NetBeansissa
     // --- piilotettu tietorakenteen toteutus: ---
     private double tilavuus;  // paljonko varastoon mahtuu,  > 0
     private double saldo;     // paljonko varastossa on nyt, >= 0
